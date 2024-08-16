@@ -45,6 +45,7 @@
 ![CRUD-1 (Edit Table)](image-9.png)
 
 ![CRUD-2 (Show Table)](image-10.png)
+![CRUD-2 (Show Table)](image-11.png)
 
 # FirstApp
 
